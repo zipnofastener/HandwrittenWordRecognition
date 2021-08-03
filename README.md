@@ -1,0 +1,2 @@
+# HandwrittenWordRecognition
+手書き文字認識の実装
